@@ -128,10 +128,13 @@ But data visualization is not always so straightforward...
 - Look at the following examples of data visualizations. For each, consider:
 
     - Is the visualization pleasing to look at?
+    Yes the colours and the idea are pleasant
 
     - Does the visualization accurately represent data?
+    No, the 3D effect and the axis reduce the accuracy 
 
     - Can we understand what message the maker of the visualization is attempting to convey?
+    No, the 3D effect makes the message unclear
 
     - Consider factors such as colour, size, use of images. Is this a ‘good’ data visualization? Why or why not?
     It is not a good visualization, the graphic is hard to read and it is not possible to parse the information
@@ -140,19 +143,65 @@ But data visualization is not always so straightforward...
 --- 
 
 ![bg w:800](./images/01_healy_2018.png)
+ - Is the visualization pleasing to look at?
+    Yes the colours and the idea are pleasant
 
+    - Does the visualization accurately represent data?
+    No, the 3D effect and the axis reduce the accuracy 
+
+    - Can we understand what message the maker of the visualization is attempting to convey?
+    No, the 3D effect makes the message unclear
+
+    - Consider factors such as colour, size, use of images. Is this a ‘good’ data visualization? Why or why not?
+    It is not a good visualization, the graphic is hard to read and it is not possible to parse the information
 --- 
 
 ![bg w:700](./images/01_healy_2018_2.png)
+ - Is the visualization pleasing to look at?
+    Yes the visulization is fun and engaging
 
+    - Does the visualization accurately represent data?
+    No, the curved, inconsitent axis makes the values hard to understand
+
+    - Can we understand what message the maker of the visualization is attempting to convey?
+    The message is clear but the specifics are not conveyed appropriately
+
+    - Consider factors such as colour, size, use of images. Is this a ‘good’ data visualization? Why or why not?
+    It is not a good visualization, the information is not clear
 --- 
 
 ![](./images/01_healy_2018_3.png)
 (The same data presented with two different aspect ratios)
 
+ - Is the visualization pleasing to look at?
+   A bit, it looks like a typical graph
+
+    - Does the visualization accurately represent data?
+    Unable to tell as we do not have information on what the visualization is trying to convey
+
+    - Can we understand what message the maker of the visualization is attempting to convey?
+    No, the there is no legend, axis are not labeled well, and there is no title
+
+    - Consider factors such as colour, size, use of images. Is this a ‘good’ data visualization? Why or why not?
+    It is not a good visualization, it is missing important information
+
 --- 
 
 ![bg w:700](./images/01_2012_presidential_run.png)
+
+- Is the visualization pleasing to look at?
+   No it is outdated 
+
+    - Does the visualization accurately represent data?
+    No pie graph adds up to more than 100
+
+    - Can we understand what message the maker of the visualization is attempting to convey?
+    No, the the proportions are not divided appropriately 
+   
+    - Consider factors such as colour, size, use of images. Is this a ‘good’ data visualization? Why or why not?
+        It is not a good visualization, it is inaccurate and not visually pleasing
+ 
+
 
 --- 
 
@@ -167,13 +216,13 @@ But data visualization is not always so straightforward...
 - Each of the questions corresponds to an important quality of data visualizations:
 
     - Is the visualization pleasing to look at? → **Aesthetic**
-
+    Very pleasing
     - Does the visualization accurately and honestly present data? → **Substantive**
-
+    It is hard to tell the wind speed, hard to distinguish 
     - Can we understand what message the maker of the visualization is attempting to convey? → **Perceptual**
-
+    Yes, the information is clear and can be understoof
 - We need to consider all of these qualities when evaluating and designing ‘good’ data visualizations
-
+    Yes it is very pleasing and the information is pretty clear
 
 --- 
 
