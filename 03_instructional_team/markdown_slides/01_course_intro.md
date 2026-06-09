@@ -134,7 +134,7 @@ But data visualization is not always so straightforward...
     - Can we understand what message the maker of the visualization is attempting to convey?
 
     - Consider factors such as colour, size, use of images. Is this a ‘good’ data visualization? Why or why not?
-
+    It is not a good visualization, the graphic is hard to read and it is not possible to parse the information
 
 
 --- 
