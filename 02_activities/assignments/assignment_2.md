@@ -11,6 +11,7 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Pictorial of the percentage of people living in Coppenhagen who have changed their behaviour as a result of ongoing gang war. https://datavizproject.com/data-type/pictorial-fraction-chart/
+      https://graphism.fr/wp-content/uploads/2011/02/tof.jpg
 
         - Is the visualization pleasing to look at?
     Yes the pictorial is interesting and thought pervoking. It has a series of men wrapped in tape. It draws you in and is aesthetically pleasing
