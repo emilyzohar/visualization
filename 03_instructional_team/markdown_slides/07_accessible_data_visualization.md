@@ -429,6 +429,7 @@ REFERENCES:
 
 What would be suitable alt-text for this image?
 
+Woman in laboratory coat having conversation with man in science lab. 
 <!--
 REFERENCES:
 University of Toronto. (2021). Accessible Images and Multimedia | Information & Instructional Technology. https://www.utm.utoronto.ca/iits/documentation/drupal-user-guide/accessible-images-and-multimedia 
